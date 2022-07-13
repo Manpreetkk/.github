@@ -1,0 +1,5 @@
+git push origin test
+git checkout branch2
+git cherry-pick test
+git push origin branch2
+git checkout test
